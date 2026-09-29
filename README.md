@@ -50,3 +50,9 @@ Example
 9. It will find the top most similar embeddings along with their textual chunks.
 
 10. I have to ask LLM now "This is the user question, these are the possible answers, find which one is correct and answer the question"
+
+Data Ingestion:Taking pdf,html,excel files
+Data Parsing: Checking documemt structure
+Chunking: Dividing those data into pieces
+Embedding:Coverting into vectors of fixed context
+Vector DB: Storing vecors in DB
